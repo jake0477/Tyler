@@ -1,3 +1,4 @@
-# Tyler
+# Hi, I'm Tyler
 
-![image](https://user-images.githubusercontent.com/82616410/231246101-5268c6c3-7c17-48a9-b51b-bf7ead0c6b33.png)
+# About me
+- I am a 3d modeler that also codes on the side. I am into Buses, Trains, Ships, and planes. 
